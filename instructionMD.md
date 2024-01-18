@@ -32,4 +32,13 @@ git log --oneline
 git checkout
 ```
 
+## Команда объединения веток
+```sh
+git merge (branch name)
+```
+
+## Команда показа всех имеющихся веток
+```sh
+git branch
+```
 
