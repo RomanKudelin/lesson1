@@ -77,4 +77,6 @@ git branch
 ```
 [сайт GeekBrains](https://gb.ru/)
 
+![логотип](GBimage.jpeg)
+
 [сайт GeekBrains](https://gb.ru/ "Всплывающая подсказка")
