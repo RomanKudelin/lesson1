@@ -24,14 +24,18 @@
 // double quotient2 = i1 / d1;
 // Console.WriteLine(quotient2)
 
-using System.ComponentModel;
 
-int a = 50;
-if (a % 7 == 0 && a % 23 == 0);
+
+int a = 322;
 {
-    Console.WriteLine(да)
+    if (a % 7 == 0 && a % 23 == 0)
+
+    {
+        Console.WriteLine("да");
+    }
+    else
+    {
+        Console.WriteLine("нет");
+    }
 }
-else
-{
-    Console.WriteLine(нет)
-}
+
