@@ -26,3 +26,14 @@
 //     if (x > 0 && y < 0)
 //     Console.WriteLine("4");
 // }
+
+// ЗАДАЧА № 3
+
+{
+Console.Write("Введите число из отрезка [10, 99]: ");
+int number = Convert.ToInt32(Console.ReadLine());
+int firstDigit = number / 10;
+int secondDigit = number % 10;
+int maxDigit = firstDigit > secondDigit ? firstDigit : secondDigit;Console.WriteLine(maxDigit);
+}
+
