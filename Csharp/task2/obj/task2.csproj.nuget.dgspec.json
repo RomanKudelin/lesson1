@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TTala4\\Desktop\\git\\Csharp\\task2\\task2.csproj": {}
+    "C:\\Users\\TTala4\\Desktop\\Git\\Csharp\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TTala4\\Desktop\\git\\Csharp\\task2\\task2.csproj": {
+    "C:\\Users\\TTala4\\Desktop\\Git\\Csharp\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TTala4\\Desktop\\git\\Csharp\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\TTala4\\Desktop\\Git\\Csharp\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\TTala4\\Desktop\\git\\Csharp\\task2\\task2.csproj",
+        "projectPath": "C:\\Users\\TTala4\\Desktop\\Git\\Csharp\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\TTala4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TTala4\\Desktop\\git\\Csharp\\task2\\obj\\",
+        "outputPath": "C:\\Users\\TTala4\\Desktop\\Git\\Csharp\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TTala4\\AppData\\Roaming\\NuGet\\NuGet.Config"
