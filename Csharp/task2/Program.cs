@@ -1,41 +1,28 @@
-﻿// int i1 = 5;
-// int i2 = 6;
-// int sum = i1 + i2;
-// Console.WriteLine(sum);
+﻿
+// // ЗАДАЧА № 1
+// int a = 322;
+// {
+//     if (a % 7 == 0 && a % 23 == 0)
 
-// long l1 = 6;
-// long sum2 = l1 + i1;
-// Console.WriteLine(sum2);
+//     {
+//         Console.WriteLine("да");
+//     }
+//     else
+//     {
+//         Console.WriteLine("нет");
+//     }
+// }
 
-// double d1 = 5.5;
-// double sum3 = d1 + i1;
+// // ЗАДАЧА № 2
 
-// int product1 = i1 * i2;
-// long product2 = l1 * i1;
-// double product3 = i1 * d1; 
-// Console.WriteLine(product1);
-// Console.WriteLine(product2);
-// Console.WriteLine(product3);
-
-// int quotient = i1 / i2;
-// Console.WriteLine(quotient);
-
-// d1 = 6;
-// double quotient2 = i1 / d1;
-// Console.WriteLine(quotient2)
-
-
-
-int a = 322;
-{
-    if (a % 7 == 0 && a % 23 == 0)
-
-    {
-        Console.WriteLine("да");
-    }
-    else
-    {
-        Console.WriteLine("нет");
-    }
-}
-
+// int x = 4 , y = -2;
+// {
+//     if (x > 0 && y > 0)
+//     Console.WriteLine("1");
+//     if (x < 0 && y > 0)
+//     Console.WriteLine("2");
+//     if (x < 0 && y < 0)
+//     Console.WriteLine("3");
+//     if (x > 0 && y < 0)
+//     Console.WriteLine("4");
+// }
